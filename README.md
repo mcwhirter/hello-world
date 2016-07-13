@@ -1,2 +1,2 @@
 # hello-world
-A mini test repository for my first time using GitHub for reals.
+A little mini test repository.
