@@ -1,2 +1,2 @@
-# hello-world
-A little mini test repository.
+# CS174A Assignment 3
+Tests passed: all
